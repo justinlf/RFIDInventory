@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rooms>
+  <room rfid="22302D87" dirty="0">
+    <id>1</id>
+    <name>LSC 228 A</name>
+  </room>
+  <room rfid="22302D8B" dirty="0">
+    <id>2</id>
+    <name>LSC 228 B</name>
+  </room>
+  <room rfid="00000003" dirty="0">
+    <id>4</id>
+    <name>Painter C103 (Quarantine)</name>
+  </room>
+  <room rfid="00000004" dirty="0">
+    <id>18</id>
+    <name>Painter B131-Barrier</name>
+  </room>
+  <room rfid="00000005" dirty="0">
+    <id>19</id>
+    <name>Painter C105</name>
+  </room>
+  <room rfid="00000006" dirty="0">
+    <id>22</id>
+    <name>Painter C114</name>
+  </room>
+  <room rfid="00000007" dirty="0">
+    <id>23</id>
+    <name>Painter C115</name>
+  </room>
+  <room rfid="00000008" dirty="0">
+    <id>24</id>
+    <name>Painter C116</name>
+  </room>
+  <room rfid="00000009" dirty="0">
+    <id>27</id>
+    <name>Painter C119</name>
+  </room>
+  <room rfid="00000010" dirty="0">
+    <id>28</id>
+    <name>Painter C120</name>
+  </room>
+  <room rfid="00000011" dirty="0">
+    <id>29</id>
+    <name>Painter C121</name>
+  </room>
+  <room rfid="00000012" dirty="0">
+    <id>30</id>
+    <name>Painter C122</name>
+  </room>
+  <room rfid="00000013" dirty="0">
+    <id>33</id>
+    <name>Painter D101</name>
+  </room>
+  <room rfid="00000014" dirty="0">
+    <id>34</id>
+    <name>Painter D102 - Barrier</name>
+  </room>
+  <room rfid="00000015" dirty="0">
+    <id>35</id>
+    <name>Painter D103</name>
+  </room>
+  <room rfid="00000016" dirty="0">
+    <id>38</id>
+    <name>Painter D106</name>
+  </room>
+  <room rfid="00000017" dirty="0">
+    <id>39</id>
+    <name>Painter D107</name>
+  </room>
+  <room rfid="00000018" dirty="0">
+    <id>40</id>
+    <name>Painter D108</name>
+  </room>
+  <room rfid="00000019" dirty="0">
+    <id>41</id>
+    <name>Painter D109</name>
+  </room>
+  <room rfid="00000020" dirty="0">
+    <id>42</id>
+    <name>Painter D110</name>
+  </room>
+  <room rfid="00000021" dirty="0">
+    <id>45</id>
+    <name>Painter D113</name>
+  </room>
+  <room rfid="00000022" dirty="0">
+    <id>47</id>
+    <name>Painter D115</name>
+  </room>
+  <room rfid="00000023" dirty="0">
+    <id>48</id>
+    <name>Painter D116</name>
+  </room>
+  <room rfid="00000024" dirty="0">
+    <id>51</id>
+    <name>Painter D119</name>
+  </room>
+  <room rfid="00000025" dirty="0">
+    <id>53</id>
+    <name>Painter D121A</name>
+  </room>
+  <room rfid="00000026" dirty="0">
+    <id>54</id>
+    <name>Painter D121B</name>
+  </room>
+  <room rfid="00000027" dirty="0">
+    <id>247</id>
+    <name>Painter D101I</name>
+  </room>
+  <room rfid="00000028" dirty="0">
+    <id>169</id>
+    <name>Painter D101C</name>
+  </room>
+  <room rfid="00000029" dirty="0">
+    <id>168</id>
+    <name>Painter D101A</name>
+  </room>
+  <room rfid="00000030" dirty="0">
+    <id>170</id>
+    <name>Painter D101H</name>
+  </room>
+  <room rfid="00000031" dirty="0">
+    <id>36</id>
+    <name>Painter D104</name>
+  </room>
+  <room rfid="00000032" dirty="0">
+    <id>37</id>
+    <name>Painter D105</name>
+  </room>
+  <room rfid="00000033" dirty="0">
+    <id>43</id>
+    <name>Painter D111</name>
+  </room>
+  <room rfid="00000034" dirty="0">
+    <id>44</id>
+    <name>Painter D112</name>
+  </room>
+  <room rfid="00000035" dirty="0">
+    <id>49</id>
+    <name>Painter D117</name>
+  </room>
+  <room rfid="00000036" dirty="0">
+    <id>55</id>
+    <name>Painter D122</name>
+  </room>
+  <room rfid="00000369" dirty="0">
+    <id>56</id>
+    <name>Painter D123</name>
+  </room>
+  <room rfid="00000360" dirty="0">
+    <id>14</id>
+    <name>Painter B127-Barrier</name>
+  </room>
+  <room rfid="00000039" dirty="0">
+    <id>15</id>
+    <name>Painter B129-Barrier</name>
+  </room>
+  <room rfid="00000040" dirty="0">
+    <id>20</id>
+    <name>Painter C112</name>
+  </room>
+  <room rfid="00000041" dirty="0">
+    <id>25</id>
+    <name>Painter C117</name>
+  </room>
+  <room rfid="00000042" dirty="0">
+    <id>26</id>
+    <name>Painter C118</name>
+  </room>
+  <room rfid="00000043" dirty="0">
+    <id>225</id>
+    <name>Painter D101F</name>
+  </room>
+</rooms>

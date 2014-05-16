@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <type>
+    <last>0</last>
+    <metal>
+      <power>22</power>
+      <filter>-50</filter>
+    </metal>
+    <plastic>
+      <power>18</power>
+      <filter>-39</filter>
+    </plastic>
+  </type>
+  <server>
+    <IP>192.168.1.12</IP>
+    <port>4000</port>
+  </server>
+  <deviceID>00000000000000000007A6C2</deviceID>
+</settings>
